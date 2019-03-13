@@ -12,7 +12,7 @@ public class WaveConfig : ScriptableObject
     [SerializeField] int numberOfEnemies = 5;
     [SerializeField] float moveSpeed = 2f;
     //This is a comment made in Master Branch on Web
-
+    //Thanks!
 
     public GameObject GetEnemyPrefab() { return enemyPrefab; }
 
