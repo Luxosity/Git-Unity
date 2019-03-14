@@ -43,4 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c534f651b18dfe241a7cbb8827b42922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waveConfigs: []
+  waveConfigs:
+  - {fileID: 11400000, guid: 6685f29f155ad5f45ab69e202aa2eddc, type: 2}
+  - {fileID: 11400000, guid: bd5a9ae28b6623f4dbb0b0d6a4a07b00, type: 2}
+  - {fileID: 11400000, guid: 9638952211b646c438d4511489b8194e, type: 2}
+  startingWave: 2
